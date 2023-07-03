@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'App do felipe',
       theme: ThemeData(
       
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme: ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 120, 54, 235)),
         useMaterial3: true,
       ),
         home: const Userlist(),

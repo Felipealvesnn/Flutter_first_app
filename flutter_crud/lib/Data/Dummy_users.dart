@@ -1,7 +1,8 @@
 
 import 'package:flutter_crud/Models/users.dart';
 
-const DUMMY_USERS = {
+// ignore: constant_identifier_names
+const  Map<String, User> DUMMY_USERS = {
   '1':  User(
     id: '1',
     name: 'Felipe ',
