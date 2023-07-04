@@ -26,7 +26,7 @@ class User_title extends StatelessWidget {
          IconButton(onPressed: () {}, icon:const Icon(Icons.edit), color: Colors.grey),
          IconButton(onPressed: ()  {} , icon: const Icon(Icons.delete), 
          color: Colors.red,)
-      ]
+      ] 
       
         ),
       ),
